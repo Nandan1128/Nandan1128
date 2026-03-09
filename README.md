@@ -5,10 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=nandan1128&label=Profile%20views&color=0e75b6&style=flat" alt="nandan1128" />
 </p>
 
+---
+
+### 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nandan1128&theme=onedark&margin-w=10" alt="nandan1128" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=nandan1128&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" alt="nandan1128 trophies"/>
 </p>
 
 ---
@@ -16,7 +17,7 @@
 ### 🌟 About Me
 - 🔭 Currently working on **Clause Clear**
 - 🌱 Exploring **Kotlin, Artificial Intelligence, Flutter**
-- 👨‍💻 Check out my projects: [Portfolio](https://nandan-gogari.vercel.app/)
+- 👨‍💻 My projects: [Portfolio](https://nandan-gogari.vercel.app/)
 - 💬 Ask me about **Android, Kotlin, Java, React**
 - 📫 Reach me at **gogarinandan1128@gmail.com**
 
