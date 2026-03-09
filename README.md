@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.cbf7da2c-57dd-4a7e-aa2e-c757931fbe86.png" alt="GitHub Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Nandan Gogari</h1>
 <h3 align="center">🚀 Passionate Application Developer from India</h3>
 
