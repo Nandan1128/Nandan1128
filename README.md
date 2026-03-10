@@ -2,9 +2,6 @@
   <img src="Banner.png" alt="GitHub Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Nandan Gogari</h1>
-<h3 align="center">🚀 Passionate Application Developer from India</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nandan1128&label=Profile%20views&color=0e75b6&style=flat" alt="nandan1128" />
 </p>
